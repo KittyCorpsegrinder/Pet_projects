@@ -2,5 +2,7 @@
 
 [Дашборд здесь](https://datalens.yandex/wk9jqf2l4bmel)
 
+[Благодарственное письмо](https://github.com/KittyCorpsegrinder/Pet_projects/blob/main/DonorSearch_project/gratitude.pdf)
+
 
 ![Скриншот дашборда](https://raw.githubusercontent.com/KittyCorpsegrinder/Pet_projects/main/DonorSearch_project/dash.jpg)
