@@ -2,25 +2,8 @@
 
 [Ссылка на проект](https://rawcdn.githack.com/KittyCorpsegrinder/Pet_projects/7d430ebb0cd65c5fe81a72731ac190755549335c/Auto_kz/auto_kz_Kirin.html)
 
-[Дашборд с характеристиками исходных данных](https://rawcdn.githack.com/KittyCorpsegrinder/Pet_projects/e07011c6b2d67d5e68aa7dd11cd6d0c43cfa6bb0/Auto_kz/not_preprocessing.html)  |  [Дашборд с характеристиками обработанного датасета](https://rawcdn.githack.com/KittyCorpsegrinder/Pet_projects/e07011c6b2d67d5e68aa7dd11cd6d0c43cfa6bb0/Auto_kz/preprocessing_complete.html)
+[характеристики исходных данных](https://rawcdn.githack.com/KittyCorpsegrinder/Pet_projects/e07011c6b2d67d5e68aa7dd11cd6d0c43cfa6bb0/Auto_kz/not_preprocessing.html)  |  [характеристики обработанного датасета](https://rawcdn.githack.com/KittyCorpsegrinder/Pet_projects/e07011c6b2d67d5e68aa7dd11cd6d0c43cfa6bb0/Auto_kz/preprocessing_complete.html)
 
 На входе имеются данные о положении дел авторынка Казахстана за период с января по сентябрь 2019 года. Необходимо выяснить причину снижения показателей продаж и выручки у компании Mercur Auto, сделать выводы и дать рекомендации на основании проведенного исследования.
 
-***Задачи:***
-
-* Полная предобработка датасета с максимально возможным сохранением данных.
-
-Общий исследовательский анализ данных:
-
-* Продажи по брендам, сегментам коммерческого и некоммерческого авто
-* Модели-лидеры на рынке
-* Продажи по регионам
-* Продажи автоцентров
-
-Анализ продаж Mercur Auto:
-
-* Выручка: общая, по маркам, средняя, ежемесячная, ежемесячная по маркам
-* Продажи по регионам: общие, по маркам
-* BCG анализ
-
-Выводы и рекомендации на основании общего анализа и анализа Mercur Auto.
+***Задачи:*** полная предобработка датасета с максимально возможным сохранением данных, проведение общего EDA а так же отдельно провести анализ для Merur Auto.
